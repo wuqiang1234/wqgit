@@ -8,4 +8,11 @@ GPL
 
 kfgh
 
+<<<<<<< HEAD
 kkfgjfdgdfkkk
+=======
+
+dfwq wq
+>>>>>>> feature1
+
+dfdskfsdjfsd
